@@ -11,3 +11,10 @@ Make sure that you have PHP and the Composer dependency manager installed on you
 - In your config/app.php file, add the following line to the providers array: `BeyondCode\LaravelOctane\OctaneServiceProvider::class`.
 - Run the `php artisan octane:install` command to set up the necessary configuration and bootstrap files.
 - Run the `php artisan octane:start` command to start the Laravel Octane server.
+
+
+For more information on Laravel Octane and how to use it, 
+you can refer to the 
+
+- KeyTech Blog What-is-laravel-octane-how-to-use-it-with-laravel - https://blog.keytech.dev/what-is-laravel-octane-how-to-use-it-with-laravel (https://blog.keytech.dev/what-is-laravel-octane-how-to-use-it-with-laravel)
+- package's documentation on GitHub (https://github.com/beyondcode/laravel-octane).
